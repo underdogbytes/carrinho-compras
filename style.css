@@ -1,3 +1,7 @@
 .msg--error {
   color: red;
 }
+
+table tbody tr td img {
+  max-width: 8em;
+}
